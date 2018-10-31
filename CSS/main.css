@@ -71,7 +71,6 @@ body {
   margin-left: 2rem; }
 
 .search {
-  background-color: blue;
   flex: 0 0 40%;
   display: flex;
   align-items: center;
