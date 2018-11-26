@@ -1,5 +1,5 @@
 # Trillo
-  made with the help of flexbox
+    made with the help of flexbox
 
-# Example project of Udemy : Advance CSS and SASS course
-  Copyright : Jonasschmedtmann
+## Example project of Udemy : Advance CSS and SASS course
+    Copyright : Jonasschmedtmann
