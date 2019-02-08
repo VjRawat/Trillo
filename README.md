@@ -7,3 +7,6 @@
 ## Install dependencies:
     1. npm install
     2. node-modules install
+
+## For running project on your local server
+    npm run devserver
